@@ -1,0 +1,3 @@
+[submodule "LIB/LIB_IPME"]
+	path = LIB/LIB_IPME
+	url = https://github.com/MattLart/LIB_IPME.git
